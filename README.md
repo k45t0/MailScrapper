@@ -12,7 +12,7 @@
             cp mailscrapper /usr/local/bin
 
 
-Modo de Uso
+<h2>Modo de Uso</h2>
 <p>Para usar o MailScrapper, execute o script no terminal:</p>
 
     mailscrapper https://exemplo.com
