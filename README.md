@@ -19,6 +19,8 @@
     
     mailscrapper -l urls.txt -t 10 -o output.txt -v -q
 
+    subfinder -d domain.txt -o outputdomain.txt | mailscrapper -l outputdomain.txt -t 100 -o outputmail.txt -v -q
+
 <hr>
 <h2>Help</h2>
 
