@@ -33,10 +33,5 @@ Modo de Uso
             	Number of threads to use (default 10)
           -v	Enable verbose output
 
- <h2>Licença</h2>
-<p>Este projeto está licenciado sob a Licença MIT - veja o arquivo <code>LICENSE</code> para mais detalhes.</p>
-
-<hr>
-<p>Este README foi criado para fins demonstrativos. Adaptado e personalizado conforme necessário.</p>
 </body>
 </html>
