@@ -7,8 +7,8 @@
             git clone https://github.com/k45t0/MailScrapper.git
             
             cd MailScrapper
-            
-            go mod tidy
+
+            go get github.com/fatih/color
             
             go build mailscrapper.go
             
