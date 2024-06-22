@@ -3,6 +3,7 @@
     <hr>
 
 <h2>Instalação</h2>
+
             git clone https://github.com/k45t0/MailScrapper.git
             
             cd MailScrapper
