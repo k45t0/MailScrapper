@@ -1,18 +1,5 @@
 <h1>MailScrapper</h1>
     <p>MailScrapper é um script em Go para extrair e-mails de uma página da web.</p>
-    <hr>
-
-<h2>Instalação</h2>
-
-            git clone https://github.com/k45t0/MailScrapper.git
-            
-            cd MailScrapper
-
-            go get github.com/fatih/color
-            
-            go build mailscrapper.go
-            
-            cp mailscrapper /usr/local/bin
 
 <hr>
 <h2>Modo de Uso</h2>
