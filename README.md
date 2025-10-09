@@ -1,11 +1,11 @@
 <h1>MailScrapper</h1>
-    <p>MailScrapper é um script em Go para extrair e-mails de uma página da web.</p>
+    <p>MailScrapper is a Go script for extracting emails from a web page.</p>
 
 <hr>
-<h2>Modo de Uso</h2>
-<p>Para usar o MailScrapper, execute o script no terminal:</p>
+<h2>How to Use</h2>
+<p>To use MailScrapper, run the script in the terminal:</p>
 
-    mailscrapper https://exemplo.com
+    mailscrapper https://exemple.com
     
     mailscrapper -l urls.txt -t 10 -o output.txt -v -q
 
